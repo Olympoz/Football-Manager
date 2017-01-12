@@ -72,13 +72,32 @@ ALTER TABLE Joue ADD CONSTRAINT FK_Joue_id_part FOREIGN KEY (id_part) REFERENCES
 #Ajout des tables
 
 INSERT INTO Equipe VALUES 
-(1,"BMS",1597856300,"Marty Daniels"),
-
-
-
+(1,"BMS",1 597 856 300,"Marty Daniels"),
+(2,"TDT",2 555 000 000,"Henry Jones" );
 
 INSERT INTO Joueur VALUES
-(1,"Alex Moran",100,7,"QB",550000000,1,NULL),
-(2,"Thad Castle",120,54,"ML.B",550000000,1,NULL),
-(3,"Harmon Tedesco",95,1,"Kicker",505690000,1,NULL),
-(4,"Craig Shilo",98,33,"Receiver",5753652000,1,NULL);
+
+   id_jou        int (11) Auto_increment  NOT NULL ,
+        name_jou      Varchar (25) ,
+        stats_jou     Int ,
+        num_jou       Int ,
+        post_jou      Varchar (25) ,
+        price_jou     Int ,
+        id_equ        Int ,
+        id_equ_Equipe Int ,
+(NULL,"Alex Moran",100,7,"QB",5 500 000 000,1,NULL),
+(NULL,"Thad Castle",120,54,"ML.B",5 500 000 000,1,NULL),
+(NULL,"Harmon Tedesco",95,1,"Kicker",5 056 900 000,1,NULL),
+(NULL,"Craig Shilo",98,33,"Receiver",5 753 652 000,1,NULL),
+
+(NULL,"Cech",90,1,"Gardien",45 000 000,2,NULL),
+(NULL,"Marcelo",90,2,"Défenseur latéral gauche",45 000 000,2,NULL),
+(NULL,"Carvajal",85,3,"Défenseur latéral droite",25 000 000,2,NULL),
+(NULL,"Sergio Ramos",95,4,"Défenseur central",75 000 000,2,NULL),
+(NULL,"Varane",84,5,"Défenseur central",85 000 000,2,NULL),
+(NULL,"Kroos",90,6,"Milieu défensif",165 000 000,2,NULL),
+(NULL,"Ronaldo",97,7,"Milieu latéral",205 000 000,2,NULL),
+(NULL,"Payet",80,8,"Milieu latéral",95 000 000,2,NULL),
+(NULL,"Benzema",91,9,"Attaquant",85 000 000,2,NULL),
+(NULL,"Hazard",90,10,"Attaquant ",65 000 000,2,NULL),
+(NULL,"Neymar",93,11,"Milieu latéral",105 000 000,2,NULL),

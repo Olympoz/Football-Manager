@@ -12,10 +12,11 @@ header{
   line-height:60px;
   color: white;
   font-weight: 900;
-  font-size: 35px;
+  font-size: 35px;  
+  text-shadow: 5px 1px green;
 
-  
 }
+
 .hamburger{
   background:none;
   position:absolute;
@@ -104,6 +105,7 @@ header{
   width:70%;
   height:700px;
   background-color:#282827;
+  
   }
 
 .pieddepage p {
