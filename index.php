@@ -13,11 +13,10 @@
 
 <div class="menu">
 	<ul>
-		<a href="#"><li>Accueil</li></a>
-		<a href="#"><li>Equipes</li></a>
-		<a href="#"><li>Creation Equipe</li></a>
-		<a href="#"><li>Match</li></a>
-		<a href="#"><li></li></a>
+		<a href="index.php"><li>Accueil</li></a>
+		<a href="equipes.php"><li>Equipes</li></a>
+		<a href="creationequipes.php"><li>Creation Equipe</li></a>
+		<a href="match.php"><li>Match</li></a>
 	</ul>
 </div>
 
