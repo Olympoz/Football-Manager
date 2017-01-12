@@ -77,14 +77,6 @@ INSERT INTO Equipe VALUES
 
 INSERT INTO Joueur VALUES
 
-   id_jou        int (11) Auto_increment  NOT NULL ,
-        name_jou      Varchar (25) ,
-        stats_jou     Int ,
-        num_jou       Int ,
-        post_jou      Varchar (25) ,
-        price_jou     Int ,
-        id_equ        Int ,
-        id_equ_Equipe Int ,
 (NULL,"Alex Moran",100,7,"QB",5 500 000 000,1,NULL),
 (NULL,"Thad Castle",120,54,"ML.B",5 500 000 000,1,NULL),
 (NULL,"Harmon Tedesco",95,1,"Kicker",5 056 900 000,1,NULL),
@@ -100,4 +92,4 @@ INSERT INTO Joueur VALUES
 (NULL,"Payet",80,8,"Milieu latéral",95 000 000,2,NULL),
 (NULL,"Benzema",91,9,"Attaquant",85 000 000,2,NULL),
 (NULL,"Hazard",90,10,"Attaquant ",65 000 000,2,NULL),
-(NULL,"Neymar",93,11,"Milieu latéral",105 000 000,2,NULL),
+(NULL,"Neymar",93,11,"Milieu latéral",105 000 000,2,NULL);

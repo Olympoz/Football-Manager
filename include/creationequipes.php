@@ -5,13 +5,19 @@
 	<meta charset="utf-8">
 	<title>Football Manager ONLINE</title>
 </head>
+
 <body>
-<header><center>
-	<div class="football">FOOTBALL MANAGER ONLINE </div>
+<header>
+
+<center>
+
+	<div>FOOTBALL MANAGER ONLINE </div>
 	<button class="hamburger">&#9776;</button>
 	<button class="cross">&#735;</button>
 	</center>
 </header>
+
+
 
 <div class="menu">
 	<ul>
@@ -24,7 +30,7 @@
 
 <div class="contenu">
 <p>
-
+NEWS
 </p>	
 </div>
 
