@@ -16,7 +16,7 @@ USE footballmanager;
 
 CREATE TABLE Equipe(
         id_equ     int (11) Auto_increment  NOT NULL ,
-        num_equ    Varchar (25) ,
+        name_equ    Varchar (25) ,
         budget_equ Int ,
         coach_equ  Varchar (25) ,
         PRIMARY KEY (id_equ )
@@ -30,7 +30,7 @@ CREATE TABLE Equipe(
 CREATE TABLE Joueur(
         id_jou        int (11) Auto_increment  NOT NULL ,
         name_jou      Varchar (25) ,
-        state_jou     Int ,
+        stats_jou     Int ,
         num_jou       Int ,
         post_jou      Varchar (25) ,
         price_jou     Int ,
@@ -77,8 +77,8 @@ INSERT INTO Equipe VALUES
 
 
 
-INSERT INTO Joueur id_jou name_jou state_jou num_jou post_jou price_jou id_equ id_equ_Equipe VALUES
+INSERT INTO Joueur VALUES
 (1,"Alex Moran",100,7,"QB",550000000,1,NULL),
 (2,"Thad Castle",120,54,"ML.B",550000000,1,NULL),
 (3,"Harmon Tedesco",95,1,"Kicker",505690000,1,NULL),
-(4,"Craig Shilo",98,33,"Receiver",5753652000,1,NULL),
+(4,"Craig Shilo",98,33,"Receiver",5753652000,1,NULL);
