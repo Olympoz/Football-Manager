@@ -63,7 +63,7 @@ header{
 }
 .menu li:hover{
   display: block;    
-  background:#181818; 
+  background:green; 
   padding:15px 0 15px 0; 
   border-bottom:#1d1f20 1px solid;
 }
@@ -92,8 +92,22 @@ header{
   margin:0 auto;
 }
 
-.news{
-  width:600px;
-  height:400px;
-  background-color:#FFCC00;
-}
+.contenu p {
+  opacity: 0.9;
+  margin-right:auto;
+  margin-left:auto;
+  width:70%;
+  height:700px;
+  background-color:#282827;
+  }
+
+.pieddepage p {
+  opacity: 0.9;
+  margin-right: auto;
+  margin-left:auto;
+  width:70%;
+  height:50px;
+  
+  background-color:#282827;
+  }
+
