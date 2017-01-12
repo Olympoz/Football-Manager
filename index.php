@@ -6,9 +6,11 @@
 	<title>Football Manager ONLINE</title>
 </head>
 <body>
-<header>
+<header><center>
+	<div>FOOTBALL MANAGER ONLINE </div>
 	<button class="hamburger">&#9776;</button>
 	<button class="cross">&#735;</button>
+	</center>
 </header>
 
 <div class="menu">
