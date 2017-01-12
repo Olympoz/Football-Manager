@@ -67,3 +67,8 @@ ALTER TABLE Joueur ADD CONSTRAINT FK_Joueur_id_equ FOREIGN KEY (id_equ) REFERENC
 ALTER TABLE Joueur ADD CONSTRAINT FK_Joueur_id_equ_Equipe FOREIGN KEY (id_equ_Equipe) REFERENCES Equipe(id_equ);
 ALTER TABLE Joue ADD CONSTRAINT FK_Joue_id_equ FOREIGN KEY (id_equ) REFERENCES Equipe(id_equ);
 ALTER TABLE Joue ADD CONSTRAINT FK_Joue_id_part FOREIGN KEY (id_part) REFERENCES Partie(id_part);
+
+
+#Ajout des tables
+
+INSERT INTO Equipe VALUES 
