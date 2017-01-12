@@ -16,7 +16,7 @@
 <div class="menu">
 	<ul>
 		<a href="index.php"><li>Accueil</li></a>
-		<a href="include_once/include/equipes.php"><li>Equipes</li></a>
+		<a href="equipes.php"><li>Equipes</li></a>
 		<a href="creationequipes.php"><li>Creation Equipe</li></a>
 		<a href="match.php"><li>Match</li></a>
 	</ul>
