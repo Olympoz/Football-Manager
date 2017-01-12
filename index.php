@@ -7,17 +7,17 @@
 </head>
 <body>
 <header>
-	<button class="liste">&#9776;</button>
+	<button class="hamburger">&#9776;</button>
 	<button class="cross">&#735;</button>
 </header>
 
 <div class="menu">
 	<ul>
-		<a href="#">Accueil</a>
-		<a href="#">Equipes</a>
-		<a href="#">Creation Equipe</a>
-		<a href="#">Match</a>
-		<a href="#"></a>
+		<a href="#"><li>Accueil</li></a>
+		<a href="#"><li>Equipes</li></a>
+		<a href="#"><li>Creation Equipe</li></a>
+		<a href="#"><li>Match</li></a>
+		<a href="#"><li></li></a>
 	</ul>
 </div>
 
