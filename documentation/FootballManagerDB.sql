@@ -72,3 +72,13 @@ ALTER TABLE Joue ADD CONSTRAINT FK_Joue_id_part FOREIGN KEY (id_part) REFERENCES
 #Ajout des tables
 
 INSERT INTO Equipe VALUES 
+(1,"BMS",1597856300,"Marty Daniels"),
+
+
+
+
+INSERT INTO Joueur id_jou name_jou state_jou num_jou post_jou price_jou id_equ id_equ_Equipe VALUES
+(1,"Alex Moran",100,7,"QB",550000000,1,NULL),
+(2,"Thad Castle",120,54,"ML.B",550000000,1,NULL),
+(3,"Harmon Tedesco",95,1,"Kicker",505690000,1,NULL),
+(4,"Craig Shilo",98,33,"Receiver",5753652000,1,NULL),
