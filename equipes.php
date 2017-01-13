@@ -23,9 +23,36 @@
 </div>
 
 <div class="contenu">
-<p>
+<p><h1 class="realmadrid"> 
+REAL MADRID
+</h1></p>	
 
-</p>	
+<img src="C:\IMIE\wamp\www\Football Manager\objet\KEYLOR.jpg" class="keylor">
+
+<img src="C:\IMIE\wamp\www\Football Manager\objet\CARVAJAL.jpg" class="carvajal">
+
+<img src="C:\IMIE\wamp\www\Football Manager\objet\PEPE.jpg" class="pepe">
+
+<img src="C:\IMIE\wamp\www\Football Manager\objet\RAMOS.jpg" class="ramos">
+
+<img src="C:\IMIE\wamp\www\Football Manager\objet\VARANE.jpg" class="varane">
+
+<img src="C:\IMIE\wamp\www\Football Manager\objet\NACHO.jpg" class="nacho">
+
+<img src="C:\IMIE\wamp\www\Football Manager\objet\RONALDO.jpg" class="ronaldo">
+
+<img src="C:\IMIE\wamp\www\Football Manager\objet\KROOS.jpg" class="kroos">
+
+<img src="C:\IMIE\wamp\www\Football Manager\objet\BENZEMA.jpg" class="benzema">
+
+<img src="C:\IMIE\wamp\www\Football Manager\objet\JAMES.jpg" class="james">
+
+<img src="C:\IMIE\wamp\www\Football Manager\objet\BALE.jpg" class="bale">
+
+<img src="C:\IMIE\wamp\www\Football Manager\objet\ZIDANE.jpg" class="zidane">
+
+
+
 </div>
 
 <div class="pieddepage">

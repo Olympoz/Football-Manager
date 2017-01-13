@@ -119,6 +119,102 @@ header{
   text-align: center;
   }
 
+.realmadrid{
+
+ color: white;
+  font-weight: 900;
+  font-size: 35px;  
+  text-align: center;
+  
+
+
+}
+
+.keylor{
+
+  border-radius: 50%;
+  border: 3px  solid green ;
+  
+}
+
+.carvajal{
+
+border-radius: 50%;
+  border: 3px  solid green ;
+}
+
+.pepe{
+
+border-radius: 50%;
+  border: 3px  solid green ;
+}
+
+.ramos{
+
+border-radius: 50%;
+  border: 3px  solid green ;
+}
+
+.varane{
+
+border-radius: 50%;
+  border: 3px  solid green ;
+}
+
+.nacho{
+
+border-radius: 50%;
+  border: 3px  solid green ;
+}
+
+.cristiano{
+
+border-radius: 50%;
+  border: 3px  solid green ;
+}
+
+.kroos{
+
+border-radius: 50%;
+  border: 3px  solid green ;
+}
+
+.benzema{
+
+border-radius: 50%;
+  border: 3px  solid green ;
+}
+
+.james{
+
+border-radius: 50%;
+  border: 3px  solid green ;
+}
+
+.bale{
+
+border-radius: 50%;
+  border: 3px  solid green ;
+}
+
+.zidane{
+
+border-radius: 50%;
+  border: 3px  solid green ;
+}
+
+.keylor:hover{
+
+  border-radius: 50%;
+  opacity: 0.7;
+  filter: blur(2px);
+
+
+
+
+  
+}
+
 .pieddepage p {
   opacity: 0.95;
   margin-right: auto;
