@@ -78,7 +78,11 @@ INSERT INTO Equipe VALUES
 
 
 INSERT INTO Joueur VALUES
-(1,"Alex Moran",100,7,"QB",550000000,1,NULL),
-(2,"Thad Castle",120,54,"ML.B",550000000,1,NULL),
-(3,"Harmon Tedesco",95,1,"Kicker",505690000,1,NULL),
-(4,"Craig Shilo",98,33,"Receiver",5753652000,1,NULL);
+(NULL,"Alex Moran",100,7,"QB",550000000,1,NULL),
+(NULL,"Thad Castle",120,54,"ML.B",550000000,1,NULL),
+(NULL,"Harmon Tedesco",95,1,"Kicker",505690000,1,NULL),
+(NULL,"Craig Shilo",98,33,"Receiver",5753652000,1,NULL);
+(NULL,"Radon Randell",96,2,"QB",1000000000,1,NULL);
+
+
+
