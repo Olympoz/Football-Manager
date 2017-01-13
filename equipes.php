@@ -27,7 +27,12 @@
 REAL MADRID
 </h1></p>	
 
-<img src="C:\IMIE\wamp\www\Football Manager\objet\KEYLOR.jpg" class="keylor">
+<figure>
+	<img src="C:\IMIE\wamp\www\Football Manager\objet\KEYLOR.jpg" class="keylor">
+	<figcaption>Keylor Navas</figcaption>
+</figure>
+
+
 
 <img src="C:\IMIE\wamp\www\Football Manager\objet\CARVAJAL.jpg" class="carvajal">
 
@@ -39,7 +44,7 @@ REAL MADRID
 
 <img src="C:\IMIE\wamp\www\Football Manager\objet\NACHO.jpg" class="nacho">
 
-<img src="C:\IMIE\wamp\www\Football Manager\objet\RONALDO.jpg" class="ronaldo">
+<img src="C:\IMIE\wamp\www\Football Manager\objet\CRISTIANO.jpg" class="cristiano">
 
 <img src="C:\IMIE\wamp\www\Football Manager\objet\KROOS.jpg" class="kroos">
 
