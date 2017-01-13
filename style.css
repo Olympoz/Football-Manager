@@ -2,7 +2,7 @@ body{
   font-family: 'Noto Sans', sans-serif;
   margin:0;
   width:100%;
-  height:100vh;
+  height:100px;
   background-image: url('ThemeSite.jpg');
 }
 header{
@@ -16,7 +16,6 @@ header{
   text-shadow: 5px 1px green;
   opacity: 0.95;
   margin-bottom: auto;
-
 }
 
 .hamburger{
@@ -100,18 +99,24 @@ header{
   margin:0 auto;
 }
 
-.contenu p  {
+.contenu   {
   opacity: 0.95;
   margin-right:auto;
   margin-left:auto;
-  width:70%;
-  height:700px;
-  background-color:#1d1f20;
-  color:white;
-  text-align: center;
   margin-top: auto;
   margin-bottom: auto;
+  width:70%;
+  height:650px;
+  background-color:#1d1f20;
+  border-radius: 20px;
+  }
 
+.news  {
+    
+  color: white;
+  font-weight: 900;
+  font-size: 35px;  
+  text-align: center;
   }
 
 .pieddepage p {
@@ -120,7 +125,7 @@ header{
   margin-left:auto;
   width:100%;
   height:50px;
-  margin-top: auto;
-  
   background-color:#1d1f20;
+
   }
+

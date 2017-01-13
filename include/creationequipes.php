@@ -30,7 +30,7 @@
 
 <div class="contenu">
 <p>
-NEWS
+Créer maintenant votre équipe de rêve !
 </p>	
 </div>
 
