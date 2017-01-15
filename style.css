@@ -133,106 +133,26 @@ header{
   font-size: 35px;  
   text-align: center;
   
-
-
 }
 
-.keylor{
+.keylor {
 
   border-radius: 50%;
   border: 3px  solid white ;
- 
   
 }
 
-.carvajal{
-
-border-radius: 50%;
-  border: 3px  solid white ;
-}
-
-.pepe{
-
-border-radius: 50%;
-  border: 3px  solid white ;
-}
-
-.ramos{
-
-border-radius: 50%;
-  border: 3px  solid white ;
-}
-
-.varane{
-
-border-radius: 50%;
-  border: 3px  solid white ;
-}
-
-.nacho{
-
-border-radius: 50%;
-  border: 3px  solid white ;
-}
-
-.cristiano{
-
-border-radius: 50%;
-  border: 3px  solid white ;
-}
-
-.kroos{
-
-border-radius: 50%;
-  border: 3px  solid white ;
-}
-
-.benzema{
-
-border-radius: 50%;
-  border: 3px  solid white ;
-}
-
-.james{
-
-border-radius: 50%;
-  border: 3px  solid white ;
-}
-
-.bale{
-
-border-radius: 50%;
-  border: 3px  solid white ;
-}
-
-.zidane{
-
-border-radius: 50%;
-  border: 3px  solid white ;
-}
-
-
 .keylor:hover{
-
   border-radius: 50%;
   opacity: 0.7;
   filter: opacity(0.7);
 }
 
-figure {
-  width:100px;
-}
 
-figcaption {
-opacity:0;
-background-color: AntiqueWhite;
+.carvajal{
 
-
-}
-
-figure:hover figcaption {
-transition:all 1s;
-  opacity:1;
+border-radius: 50%;
+  border: 3px  solid white ;
 }
 
 .carvajal:hover{
@@ -242,6 +162,13 @@ transition:all 1s;
   filter: opacity(0.7);
   
 }
+
+.pepe{
+
+border-radius: 50%;
+  border: 3px  solid white ;
+}
+
 .pepe:hover{
 
   border-radius: 50%;
@@ -249,6 +176,13 @@ transition:all 1s;
   filter: opacity(0.7);
   
 }
+
+.ramos{
+
+border-radius: 50%;
+  border: 3px  solid white ;
+}
+
 .ramos:hover{
 
   border-radius: 50%;
@@ -256,6 +190,13 @@ transition:all 1s;
  filter: opacity(0.7);
   
 }
+
+.varane{
+
+border-radius: 50%;
+  border: 3px  solid white ;
+}
+
 .varane:hover{
 
   border-radius: 50%;
@@ -263,6 +204,13 @@ transition:all 1s;
   filter: opacity(0.7);
   
 }
+
+.nacho{
+
+border-radius: 50%;
+  border: 3px  solid white ;
+}
+
 .nacho:hover{
 
   border-radius: 50%;
@@ -270,6 +218,13 @@ transition:all 1s;
   filter: opacity(0.7);
   
 }
+
+.cristiano{
+
+border-radius: 50%;
+  border: 3px  solid white ;
+}
+
 .cristiano:hover{
 
   border-radius: 50%;
@@ -277,12 +232,26 @@ transition:all 1s;
   filter: opacity(0.7);
   
 }
+
+.kroos{
+
+border-radius: 50%;
+  border: 3px  solid white ;
+}
+
+
 .kroos:hover{
 
   border-radius: 50%;
   opacity: 0.7;
   filter: opacity(0.7);
   
+}
+
+.benzema{
+
+border-radius: 50%;
+  border: 3px  solid white ;
 }
 
 .benzema:hover{
@@ -292,6 +261,13 @@ transition:all 1s;
  filter: opacity(0.7);
   
 }
+
+.james{
+
+border-radius: 50%;
+  border: 3px  solid white ;
+}
+
 .james:hover{
 
   border-radius: 50%;
@@ -299,12 +275,25 @@ transition:all 1s;
   filter: opacity(0.7);
   
 }
+
+.bale{
+
+border-radius: 50%;
+  border: 3px  solid white ;
+}
+
 .bale:hover{
 
   border-radius: 50%;
   opacity: 0.7;
   filter: opacity(0.7);
   
+}
+
+.zidane{
+
+border-radius: 50%;
+  border: 3px  solid white ;
 }
 
 .zidane:hover{
