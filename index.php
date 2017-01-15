@@ -34,7 +34,10 @@
 <p><h1 class="news"> 
 NEWS
 
+
+
 </h1></p>	
+<iframe src="http://www.lequipe.fr/Football/" class="information"></iframe>
 </div>
 
 <div class="pieddepage">
