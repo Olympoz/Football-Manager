@@ -25,16 +25,13 @@
 		<a href="equipes.php"><li>Equipes</li></a>
 		<a href="creationequipes.php"><li>Creation Equipe</li></a>
 		<a href="match.php"><li>Match</li></a>
-
-
 	</ul>
 </div>
 
 <div class="contenu">
-<p><h1 class="news"> 
-NEWS
-
-</h1></p>	
+<p>
+Créer maintenant votre équipe de rêve !
+</p>	
 </div>
 
 <div class="pieddepage">
@@ -43,7 +40,6 @@ NEWS
 </p>	
 </div>
 </body>
-
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script type="text/javascript" src="main.js"></script>
 </html>

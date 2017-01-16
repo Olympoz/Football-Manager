@@ -5,19 +5,13 @@
 	<meta charset="utf-8">
 	<title>Football Manager ONLINE</title>
 </head>
-
 <body>
-<header>
-
-<center>
-
+<header><center>
 	<div>FOOTBALL MANAGER ONLINE </div>
 	<button class="hamburger">&#9776;</button>
 	<button class="cross">&#735;</button>
 	</center>
 </header>
-
-
 
 <div class="menu">
 	<ul>
@@ -25,16 +19,13 @@
 		<a href="equipes.php"><li>Equipes</li></a>
 		<a href="creationequipes.php"><li>Creation Equipe</li></a>
 		<a href="match.php"><li>Match</li></a>
-
-
 	</ul>
 </div>
 
 <div class="contenu">
-<p><h1 class="news"> 
-NEWS
+<p>
 
-</h1></p>	
+</p>	
 </div>
 
 <div class="pieddepage">
@@ -43,7 +34,6 @@ NEWS
 </p>	
 </div>
 </body>
-
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script type="text/javascript" src="main.js"></script>
 </html>

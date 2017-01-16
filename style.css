@@ -2,7 +2,7 @@ body{
   font-family: 'Noto Sans', sans-serif;
   margin:0;
   width:100%;
-  height:100vh;
+  height:100px;
   background-image: url('ThemeSite.jpg');
 }
 header{
@@ -12,10 +12,12 @@ header{
   line-height:60px;
   color: white;
   font-weight: 900;
-  font-size: 35px;
-
-  
+  font-size: 35px;  
+  text-shadow: 5px 1px green;
+  opacity: 0.95;
+  margin-bottom: auto;
 }
+
 .hamburger{
   background:none;
   position:absolute;
@@ -97,20 +99,223 @@ header{
   margin:0 auto;
 }
 
-.contenu p {
-  opacity: 0.9;
+.contenu   {
+  opacity: 0.95;
   margin-right:auto;
   margin-left:auto;
+  margin-top: auto;
+  margin-bottom: auto;
   width:70%;
-  height:700px;
-  background-color:#282827;
+  height:1800px;
+  background-color:#1d1f20;
+  border-radius: 20px;
+  padding-left: 30px;
   }
 
+.news  {
+    
+  color: white;
+  font-weight: 900;
+  font-size: 35px;  
+  text-align: center;
+  }
+
+.realmadrid{
+
+ color: white;
+  font-weight: 900;
+  font-size: 35px;  
+  text-align: center;
+  
+
+
+}
+
+.keylor{
+
+  border-radius: 50%;
+  border: 3px  solid white ;
+ 
+  
+}
+
+.carvajal{
+
+border-radius: 50%;
+  border: 3px  solid white ;
+}
+
+.pepe{
+
+border-radius: 50%;
+  border: 3px  solid white ;
+}
+
+.ramos{
+
+border-radius: 50%;
+  border: 3px  solid white ;
+}
+
+.varane{
+
+border-radius: 50%;
+  border: 3px  solid white ;
+}
+
+.nacho{
+
+border-radius: 50%;
+  border: 3px  solid white ;
+}
+
+.cristiano{
+
+border-radius: 50%;
+  border: 3px  solid white ;
+}
+
+.kroos{
+
+border-radius: 50%;
+  border: 3px  solid white ;
+}
+
+.benzema{
+
+border-radius: 50%;
+  border: 3px  solid white ;
+}
+
+.james{
+
+border-radius: 50%;
+  border: 3px  solid white ;
+}
+
+.bale{
+
+border-radius: 50%;
+  border: 3px  solid white ;
+}
+
+.zidane{
+
+border-radius: 50%;
+  border: 3px  solid white ;
+}
+
+
+.keylor:hover{
+
+  border-radius: 50%;
+  opacity: 0.7;
+  filter: opacity(0.7);
+}
+
+figure {
+  width:100px;
+}
+
+figcaption {
+opacity:0;
+background-color: AntiqueWhite;
+
+
+}
+
+figure:hover figcaption {
+transition:all 1s;
+  opacity:1;
+}
+
+.carvajal:hover{
+
+  border-radius: 50%;
+  opacity: 0.7;
+  filter: opacity(0.7);
+  
+}
+.pepe:hover{
+
+  border-radius: 50%;
+  opacity: 0.7;
+  filter: opacity(0.7);
+  
+}
+.ramos:hover{
+
+  border-radius: 50%;
+  opacity: 0.7;
+ filter: opacity(0.7);
+  
+}
+.varane:hover{
+
+  border-radius: 50%;
+  opacity: 0.7;
+  filter: opacity(0.7);
+  
+}
+.nacho:hover{
+
+  border-radius: 50%;
+  opacity: 0.7;
+  filter: opacity(0.7);
+  
+}
+.cristiano:hover{
+
+  border-radius: 50%;
+  opacity: 0.7;
+  filter: opacity(0.7);
+  
+}
+.kroos:hover{
+
+  border-radius: 50%;
+  opacity: 0.7;
+  filter: opacity(0.7);
+  
+}
+
+.benzema:hover{
+
+  border-radius: 50%;
+  opacity: 0.7;
+ filter: opacity(0.7);
+  
+}
+.james:hover{
+
+  border-radius: 50%;
+  opacity: 0.7;
+  filter: opacity(0.7);
+  
+}
+.bale:hover{
+
+  border-radius: 50%;
+  opacity: 0.7;
+  filter: opacity(0.7);
+  
+}
+
+.zidane:hover{
+
+  border-radius: 50%;
+  opacity: 0.7;
+  filter: opacity(0.7);
+  
+}
+
 .pieddepage p {
+  opacity: 0.95;
   margin-right: auto;
   margin-left:auto;
   width:100%;
   height:50px;
-  
-  background-color:#282827;
+  background-color:#1d1f20;
+
   }
+
