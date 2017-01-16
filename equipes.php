@@ -27,12 +27,7 @@
 REAL MADRID
 </h1></p>	
 
-<figure>
-	<img src="C:\IMIE\wamp\www\Football Manager\objet\KEYLOR.jpg" class="keylor">
-	<figcaption>Keylor Navas</figcaption>
-</figure>
-
-
+<img src="C:\IMIE\wamp\www\Football Manager\objet\KEYLOR.jpg" class="keylor"  >
 
 <img src="C:\IMIE\wamp\www\Football Manager\objet\CARVAJAL.jpg" class="carvajal">
 
